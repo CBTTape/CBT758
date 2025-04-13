@@ -1,0 +1,12 @@
+2025-04-13 22:36:33.470903 - Received CBT.V508.FILE758.PDS from FILE758.XMI 
+2025-04-13 22:36:33.471743 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE758.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:36:33.471822 - Found $DOC.txt (text/plain) in CBT.V508.FILE758.PDS, moved to PDS/$DOC
+2025-04-13 22:36:33.471885 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE758.PDS, moved to PDS/$PDSLOAD
+2025-04-13 22:36:33.471947 - Found $README.txt (text/plain) in CBT.V508.FILE758.PDS, moved to PDS/$README
+2025-04-13 22:36:33.472008 - Found @FILE758.txt (text/plain) in CBT.V508.FILE758.PDS, moved to PDS/@FILE758
+2025-04-13 22:36:33.472075 - Found LOADBTCH.txt (text/plain) in CBT.V508.FILE758.PDS, moved to PDS/LOADBTCH
+2025-04-13 22:36:33.472169 - Found LOADWRD1.txt (text/plain) in CBT.V508.FILE758.PDS, moved to PDS/LOADWRD1
+2025-04-13 22:36:33.472246 - Found MACROS.txt (text/plain) in CBT.V508.FILE758.PDS, moved to PDS/MACROS
+2025-04-13 22:36:33.472310 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE758.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-13 22:36:33.477787 - Received WSBG.LOAD from PDSLOAD.xmi 
+2025-04-13 22:36:33.478152 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
